@@ -1,0 +1,10 @@
+LICENCE.txt
+README.md
+pyproject.toml
+Looprlib.egg-info/PKG-INFO
+Looprlib.egg-info/SOURCES.txt
+Looprlib.egg-info/dependency_links.txt
+Looprlib.egg-info/requires.txt
+Looprlib.egg-info/top_level.txt
+scr/Looprlib/_init_.py
+scr/Looprlib/core.py

@@ -1,0 +1,1 @@
+This is a quick and easy to use Library for python that adds a bunch of random functions.    :)
